@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1714700027576,
+    "name": "Colchon 1",
+    "size": "Queen size",
+    "price": "6000",
+    "imagePath": "/images/productImage-1714700027571-671621991.jpg"
+  },
+  {
+    "id": 1714700039204,
+    "name": "Colchon 2",
+    "size": "Queen size",
+    "price": "2000",
+    "imagePath": "/images/productImage-1714700039202-847501386.jpg"
+  },
+  {
+    "id": 1714700157865,
+    "name": "Colchon 100",
+    "size": "Queen size",
+    "price": "2000",
+    "imagePath": "/images/productImage-1714972051763-75737191.jpg"
+  },
+  {
+    "id": 1714700171375,
+    "name": "Colchon 4",
+    "size": "Queen size",
+    "price": "7000",
+    "imagePath": "/images/productImage-1714700171372-480659434.jpg"
+  },
+  {
+    "id": 1714700183354,
+    "name": "Colchon 5",
+    "size": "Queen size",
+    "price": "4000",
+    "imagePath": "/images/productImage-1714700183351-576994639.jpg"
+  },
+  {
+    "id": 1714700191735,
+    "name": "Colchon 6",
+    "size": "Queen size",
+    "price": "4000",
+    "imagePath": "/images/productImage-1714700191733-245338778.jpg"
+  },
+  {
+    "id": 1715001556499,
+    "name": "Colchon 7",
+    "size": "Bien grandote pa",
+    "price": "5000",
+    "imagePath": "/images/productImage-1715001556492-387166730.jpg"
+  },
+  {
+    "id": 1715001651660,
+    "name": "Cama",
+    "size": "Muy grande",
+    "price": "4000",
+    "imagePath": "/images/productImage-1715001651656-521916288.jpg"
+  }
+]
